@@ -10,12 +10,12 @@ spider-rent的主要特点:
 下面是架构设计-----------------------------------------------------分割线
 
 架构图
-![架构图](https://github.com/ybbzbb/simple-rent/blob/master/IMG/s-rent%20Design.jpg?raw=true)
+![架构图](https://github.com/coding-to-old/simple-rent/blob/master/IMG/s-rent%20Design.jpg?raw=true)
 
 技术说明:
 
 * spider server
-爬虫服务使用 python scrapy [http://scrapy.org/](http://scrapy.org/)
+爬虫服务使用 java webmagic [http://webmagic.io/](http://webmagic.io/)
 
 * DTS、API server
 数据转化服务器与api服务器使用 java
